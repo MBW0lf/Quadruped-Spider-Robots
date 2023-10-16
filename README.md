@@ -6,7 +6,7 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#components">Components</a></li>
-    <li><a href="#pictures">Pictures & Results</a></li>
+    <li><a href="#results">Results</a></li>
     <li><a href="#refereces">Refereces</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -27,7 +27,7 @@ In this project, we initially designed the robot model, manufactured the robot c
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- PARTS -->
-# Pictures & Results
+# Results
 
 **4 Legged Robot**
 
