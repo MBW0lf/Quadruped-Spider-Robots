@@ -6,7 +6,7 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#components">Components</a></li>
-    <li><a href="#pictures & results">Pictures & Results</a></li>
+    <li><a href="#pictures-and-results">Pictures & Results</a></li>
     <li><a href="#refereces">Refereces</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -30,4 +30,6 @@ In this project, we initially designed the robot model, manufactured the robot c
 # Pictures & Results
 
 **4 Legged Robot**
+
 <p> <img src="/../../Payan Name/4_Legged_Robot(Mohammad_Barabadi)/Images/CH5/IMG_1.jpg" width="700"> </p> 
+<p align="right">(<a href="#top">back to top</a>)</p>
