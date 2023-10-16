@@ -6,7 +6,7 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#components">Components</a></li>
-    <li><a href="#pictures-and-results">Pictures & Results</a></li>
+    <li><a href="#pictures">Pictures & Results</a></li>
     <li><a href="#refereces">Refereces</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
