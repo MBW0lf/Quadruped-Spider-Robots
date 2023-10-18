@@ -33,6 +33,18 @@ In this project, we initially designed the robot model, manufactured the robot c
 
 <p> <img src="./Thesis/Images/CH2/Assembled_Robot.jpeg" width="700"> </p> 
 
+**Robot From The Front**
+
+<p> <img src="./Thesis/Images/CH5/IMG_1.jpg" width="700"> </p> 
+
+**Robot From The Top**
+
+<p> <img src="./Thesis/Images/CH5/IMG_2.jpg" width="700"> </p> 
+
+**Final Verion In SolidWorks**
+
+<p> <img src="./Thesis/Images/CH2/Robot_Final.JPG" width="700"> </p> 
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
