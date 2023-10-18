@@ -1,0 +1,66 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: AUTthesis.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: chapter1.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: chapter2.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: chapter3.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: chapter4.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: chapter5.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: plain-fa.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: appendix1.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: en-abstract.aux
+Database file #1: references.bib
+-- plain-fa.bst version 0.6 (2011/07/01) 
+-- This is a BibTeX style for XePersian: http://www.parsilatex.com
+
+Done.
+You've used 22 entries,
+            2535 wiz_defined-function locations,
+            769 strings with 9973 characters,
+and the built_in function-call counts, 8297 in all, are:
+= -- 862
+> -- 360
+< -- 5
++ -- 145
+- -- 122
+* -- 485
+:= -- 1204
+add.period$ -- 66
+call.type$ -- 22
+change.case$ -- 285
+chr.to.int$ -- 0
+cite$ -- 22
+duplicate$ -- 258
+empty$ -- 567
+format.name$ -- 122
+if$ -- 1903
+int.to.chr$ -- 0
+int.to.str$ -- 22
+missing$ -- 182
+newline$ -- 192
+num.names$ -- 44
+pop$ -- 156
+preamble$ -- 1
+purify$ -- 93
+quote$ -- 0
+skip$ -- 233
+stack$ -- 0
+substring$ -- 403
+swap$ -- 75
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 4
+type$ -- 86
+warning$ -- 0
+while$ -- 59
+width$ -- 24
+write$ -- 290
