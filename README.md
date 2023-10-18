@@ -29,9 +29,9 @@ In this project, we initially designed the robot model, manufactured the robot c
 <!-- PARTS -->
 # Results
 
-**4 Legged Robot**
+**Robot Without Motors**
 
-<p> <img src="/../../Payan Name/4_Legged_Robot(Mohammad_Barabadi)/Images/CH5/IMG_1.jpg" width="700"> </p> 
+<p> <img src="https://drive.google.com/file/d/1pYLwAiLTIFa3rOZBxYkpp2z_a8o9ch_a/view" width="700"> </p> 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -42,6 +42,6 @@ Mohammad Barabadi - [@MBW0lf](https://github.com/MBW0lf) - reyneh.100.mb@gmail.c
 
 Sajad Ghadiri - [@Sajad-Ghadiri](https://github.com/Sajad-Ghadiri) - cjanthony.romeo@gmail.com
 
-Project Link: [https://github.com/MBW0lf/Quadruped-Spider-Robots](https://github.com/MBW0lf/Quadruped-Spider-Robots)
+Project Links: [https://github.com/MBW0lf/Quadruped-Spider-Robots](https://github.com/MBW0lf/Quadruped-Spider-Robots)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
