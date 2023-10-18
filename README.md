@@ -31,7 +31,7 @@ In this project, we initially designed the robot model, manufactured the robot c
 
 **Robot Without Motors**
 
-<p> <img src="./Assembled_Robot.jpeg" width="700"> </p> 
+<p> <img src="../Assembled_Robot.jpeg" width="700"> </p> 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
