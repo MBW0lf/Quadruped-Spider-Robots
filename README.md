@@ -7,7 +7,6 @@
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#components">Components</a></li>
     <li><a href="#results">Results</a></li>
-    <li><a href="#refereces">Refereces</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -33,5 +32,16 @@ In this project, we initially designed the robot model, manufactured the robot c
 **4 Legged Robot**
 
 <p> <img src="/../../Payan Name/4_Legged_Robot(Mohammad_Barabadi)/Images/CH5/IMG_1.jpg" width="700"> </p> 
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- CONTACT -->
+# Contact
+
+Mohammad Barabadi - [@MBW0lf](https://github.com/MBW0lf) - reyneh.100.mb@gmail.com
+
+Sajad Ghadiri - [@Sajad-Ghadiri](https://github.com/Sajad-Ghadiri) - cjanthony.romeo@gmail.com
+
+Project Link: [https://github.com/MBW0lf/Quadruped-Spider-Robots](https://github.com/MBW0lf/Quadruped-Spider-Robots)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
