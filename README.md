@@ -16,7 +16,7 @@
 
 In this project, we initially designed the robot model, manufactured the robot components using a 3D printer, and assembled them. Subsequently, we programmed the robot's movements. Finally, employing image processing, we detected obstacles and reached the destination using existing algorithms.
 
-<p> <img src="./Our_Robot.jpg" width="500"> </p> 
+<p align="center"> <img src="./Our_Robot.jpg" width="500"> </p> 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
